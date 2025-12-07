@@ -1,4 +1,5 @@
 # Ignore environment variables
+**/*.env
 .env
 
 # Ignore Python cache
